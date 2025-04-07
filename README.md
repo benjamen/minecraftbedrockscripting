@@ -1,0 +1,2 @@
+# minecraftbedrockscripting
+minecraftbedrockscripting
