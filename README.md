@@ -1,2 +1,2 @@
-# minecraftbedrockscripting
+# Minecraft Bedrock Scripting
 minecraftbedrockscripting
